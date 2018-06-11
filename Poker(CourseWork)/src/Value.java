@@ -1,0 +1,3 @@
+enum Value {
+    TWO, TREE, FOUR, FIVE, SIX, SEVEN, EIGHT, NINE, TEN, JACK, LADY, KING, ACE
+}
